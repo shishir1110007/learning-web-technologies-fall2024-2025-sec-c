@@ -1,0 +1,49 @@
+<information>
+
+    <student SL="1">
+        <serial_no>23</serial_no>
+        <name>
+            <first>John</first>
+            <last> Carter</last>
+        </name>
+        <admission_date>
+            <day>25</day>
+            <month>12</month>
+            <year>2015</year>
+        </admission_date>
+        </student>
+
+
+
+    <student SL="2">
+        <serial_no>29</serial_no>
+        <name>
+            <first>John</first>
+            <last> Carter</last>
+        </name>
+        <admission_date>
+            <day>25</day>
+            <month>01</month>
+            <year>1999</year>
+        </admission_date>
+        </student>
+
+
+    <student SL="3">
+        <serial_no>35</serial_no>
+        <name>
+            <first>John</first>
+            <last> Carter</last>
+        </name>
+        <admission_date>
+            <day>25</day>
+            <month>06</month>
+            <year>2005</year>
+        </admission_date>
+        </student>
+
+
+
+
+
+</information>
